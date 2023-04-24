@@ -1,0 +1,171 @@
+html{
+    background-color: rgba(131, 131, 131, 1);
+    margin: 0px;
+}
+body{
+    margin: 0% 10% 0% 10%;
+    background-color: rgba(189, 188, 188, 1);
+    padding: 0% 0% 2% 0%;
+}
+.sh{
+    padding: 20px;
+}
+p{
+    margin: 0px 10px 0px 10px;
+}
+a{
+    width: auto;
+    height: auto;
+}
+.shapka{
+    display: flex;
+    justify-content: space-between;
+}
+.vhod{
+    display: flex;
+}
+.poisk{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 20px;
+}
+
+.osn{
+    margin: 2% 10% 3% 10%;
+}
+.panel{
+    display: flex;
+    justify-content: space-evenly;
+}
+.panel button{
+    width: 150px;
+    height: 50px;
+}
+.naz{
+    font-size: 120%;
+    display: flex;
+    justify-content: center;
+    margin: 0% 0% 3% 0%;
+}
+.pan{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.pan1{
+    display: flex;
+    width: 180px;
+    height: 240px;
+    background-color: rgba(138, 138, 138, 1);
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+.img_pan{
+display: flex;
+width: 180px;
+height: 80%;
+background-color: aquamarine;
+}
+.text_pan{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+.tovar{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 60px;
+}
+.tov{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+.naz_tov{
+    margin: 10px 0px;
+}
+.photo{
+    width: 220px;
+    height: 320px;
+    background-color: bisque;
+}
+.price{
+    width: 220px;
+    height: 120px;
+    background-color:azure;
+    margin: 0px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.pokupka{
+    display: flex;
+    justify-content: space-around;
+}
+.knop{
+    margin: 10px;
+}
+.cena{
+    font-size: 30px;
+}
+.fon{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(159, 159, 159, 1);
+}
+.okno{
+    display: flex;
+    background-color: aliceblue;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+}
+.vhod_reg{
+    display: flex;
+    justify-content: space-evenly;
+}
+.vvod{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    justify-content: space-evenly;
+}
+.sp_tov{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.ok_tov{
+    width: 180px;
+    height: 230px;
+    background-color: rgba(138, 138, 138, 1);
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+.pho{
+    width: 180px;
+    height: 80%;
+    background-color: rgb(126, 25, 25);
+    display: flex;
+}
+.ot{
+    margin: 0px 50px;
+    display: flex;
+    flex-direction: column;
+}
+.nazv{
+    display: flex;
+    justify-content: center;
+    height: 20%;
+    width: 100%;
+    align-items: center;
+}
+.pho_naz{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
